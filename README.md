@@ -1,3 +1,6 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CrypticShy&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=CrypticShy&show_icons=true&theme=gruvbox)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=CrypticShy&show_icons=true&theme=gruvbox" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrypticShy&theme=gruvbox" style="height:10px" />
+</a>
