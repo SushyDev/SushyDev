@@ -2,5 +2,5 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=CrypticShy&show_icons=true&theme=gruvbox" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrypticShy&theme=gruvbox" style="height:10px" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrypticShy&theme=gruvbox" />
 </a>
