@@ -1,4 +1,4 @@
-<div class="a">
+<div style="background-color:green;">
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=CrypticShy&show_icons=true&theme=gruvbox" />
@@ -8,9 +8,3 @@
 </a>
 
 </div>
-
-<style>
-.a {
-  background-color: green;
-}
-</style>
